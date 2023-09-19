@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/samfa/OneDrive/Documents/Game Development Year 3/Unreal/TutorialRepo/TutorialProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+			]
+		}
+	]
+}
